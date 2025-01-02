@@ -72,7 +72,7 @@ Network construction was done in python, constructed from the following principl
 
 #### 50-node network
 
-![output.png](images/output.png.png)
+![output.png](images/output.png)
 
 circlular representation:
 
