@@ -44,42 +44,42 @@ I also ventured into my own area of this analysis applied to networks instead of
 
 ### Heart
 
-![image.png](attachment:image.png)
+https://prnt.sc/nurMIrgOY1ro
 
 #### Star
 
-![image.png](attachment:image.png)
+![Screenshot_7.png](attachment:Screenshot_7.png)
 
 ### Functions Examples
 
 #### Circle
 
-![image.png](attachment:image.png)
+![Screenshot_6.png](attachment:Screenshot_6.png)
 
 #### Hourglass
 
-![image.png](attachment:image.png)
+![Screenshot_5.png](attachment:Screenshot_5.png)
 
 #### sin(2*pi)
 
-![image.png](attachment:image.png)
+![Screenshot_4.png](attachment:Screenshot_4.png)
 
 ## Networks
 
 Network construction was done in python, constructed from the following principles:
 
-![image.png](attachment:image.png)
+![Screenshot_1.png](attachment:Screenshot_1.png)
 
 #### 50-node network
 
-![image-2.png](attachment:image-2.png)
+![output.png](attachment:output.png)
 
 circlular representation:
 
-![image.png](attachment:image.png)
+![Screenshot_3.png](attachment:Screenshot_3.png)
 
 spectral representation:
 
-![image.png](attachment:image.png)
+![Screenshot_2.png](images\Screenshot_2.png)
 
 
