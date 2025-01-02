@@ -44,7 +44,7 @@ I also ventured into my own area of this analysis applied to networks instead of
 
 ### Heart
 
-https://prnt.sc/nurMIrgOY1ro
+![Screenshot_8.png](images/Screenshot_8.png)
 
 #### Star
 
