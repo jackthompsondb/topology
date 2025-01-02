@@ -80,6 +80,6 @@ circlular representation:
 
 spectral representation:
 
-![alt text](images\Screenshot_2.png)
+![image](images\Screenshot_2.png)
 
 
