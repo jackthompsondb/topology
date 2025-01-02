@@ -48,38 +48,38 @@ https://prnt.sc/nurMIrgOY1ro
 
 #### Star
 
-![Screenshot_7.png](attachment:Screenshot_7.png)
+![Screenshot_7.png](images/Screenshot_7.png)
 
 ### Functions Examples
 
 #### Circle
 
-![Screenshot_6.png](attachment:Screenshot_6.png)
+![Screenshot_6.png](images/Screenshot_6.png)
 
 #### Hourglass
 
-![Screenshot_5.png](attachment:Screenshot_5.png)
+![Screenshot_5.png](images/Screenshot_5.png)
 
 #### sin(2*pi)
 
-![Screenshot_4.png](attachment:Screenshot_4.png)
+![Screenshot_4.png](images/Screenshot_4.png)
 
 ## Networks
 
 Network construction was done in python, constructed from the following principles:
 
-![Screenshot_1.png](attachment:Screenshot_1.png)
+![Screenshot_1.png](images/Screenshot_1.png)
 
 #### 50-node network
 
-![output.png](attachment:output.png)
+![output.png](images/output.png.png)
 
 circlular representation:
 
-![Screenshot_3.png](attachment:Screenshot_3.png)
+![Screenshot_3.png](images/Screenshot_3.png)
 
 spectral representation:
 
-![image](images\Screenshot_2.png)
+![image](images/Screenshot_2.png)
 
 
